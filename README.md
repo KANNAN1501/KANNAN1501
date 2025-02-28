@@ -14,7 +14,7 @@ Visualization: Matplotlib, Seaborn, Tableau, Power BI
 Tools: Jupyter Notebook, Excel, Google Sheets
 
 
-# 📬 Contact
+## 📬 Contact
 💼 LinkedIn : https://www.linkedin.com/in/kannan-m-5a61abcdf/ | 📧 Email: mekannan1501@gmail.com
 <!---
 KANNAN1501/KANNAN1501 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
