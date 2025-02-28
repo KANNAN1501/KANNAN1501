@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @KANNAN1501
+👋 Hi, I’m @KANNAN1501
+
 📊 Data Analysis Projects
+
 Welcome to my Data Analysis repository! This space contains projects showcasing my skills in data cleaning, visualization, and insights extraction using tools like Python, SQL, Excel, and Power BI.
 
 🚀 Projects
