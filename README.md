@@ -5,9 +5,8 @@
 Welcome to my Data Analysis repository! This space contains projects showcasing my skills in data cleaning, visualization, and insights extraction using tools like Python, SQL, Excel, and Power BI.
 
 🚀 Projects
-🔹 Project 1: Flight-Fare-Prediction – [Brief description]
-🔹 Project 2: Face_Recognition – [Brief description]
-
+🔹 Project 1: Flight-Fare-Prediction 
+🔹 Project 2: Face_Recognition
 
 🛠️ Tech Stack
 Languages: Python (Pandas, NumPy), SQL, R
